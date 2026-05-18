@@ -1,19 +1,25 @@
 # LangAlong
 
 ## What This Is
-*[1–2 sentences: documentation suite for a concept game, portfolio piece for edtech/solution architecture roles.]*
+
+This is a portfolio piece to not only practice and display my work in creating such documents, but freely specify a language learning game idea I put together.
 
 ## The Idea
-*[2–3 sentences: the personal origin — couldn't form sentences in Japanese, designed a game around that feeling. What the game does differently from something like Duolingo.]*
+
+I came up with the game concept in response to a personal desire to learn Japanese sentence structure more deeply, particularly sentence particles. The intention was to train my mind to build sentences rather than clicking on tiles as educated guesses. The setting in a town with NPCs reinforces the social nature of forming sentences, and some of the game mechanics I specified in the System Notes helps train the player to think of the sentence before attempting to answer, as they would in a real world conversation.
 
 ## The Documents
-**[Game Design Document](LangAlong_GDD.md)** — *[one sentence on what lives here: the what and why of the game at a design level]*
 
-**[Systems & Implementation Notes](LangAlong_SystemsNotes.md)** — *[one sentence: the mechanical specifics, numbers, and rules behind the GDD]*
+**[Game Design Document](LangAlong_GDD.md)** — A document meant to closely follow real world GDDs for practice for future projects.
 
-**[Design Rationale](LangAlong_DesignRationale.md)** — *[one sentence: the reasoning log behind key decisions]*
+**[Systems Notes](LangAlong_SystemsNotes.md)** — Specifies specific game mechanics like handling player answer corrections and encouraging right answers with NPC opinions to progress the game.
 
-*These three documents are meant to be read as a suite. The GDD/Systems Notes split is intentional — [one sentence explaining why you separated design intent from mechanical detail.]*
+**[Design Rationale](LangAlong_DesignRationale.md)** — Highlights important decisions I made throughout my idea development.
+
+## Why Three Documents
+
+These three documents are meant to be read as a suite. The GDD/Systems Notes split is intentional — I wanted the GDD to be close to a real GDD that explained the game concepts but left room for implementation. The System Notes is a natural process I went through imagining a player progressing through the game.
 
 ## Scope
-*[One sentence: demo only, first village, intentional limits.]*
+
+In the interest of time, only the first village and its associated mechanics have been documented. The pattern can easily be extended with further development.
