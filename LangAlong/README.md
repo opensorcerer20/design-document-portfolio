@@ -8,10 +8,6 @@ This is a portfolio piece to not only practice and display my work in creating s
 
 I came up with the game concept in response to a personal desire to learn Japanese sentence structure more deeply, particularly sentence particles. The intention was to train my mind to build sentences rather than clicking on tiles as educated guesses. The setting in a town with NPCs reinforces the social nature of forming sentences, and some of the game mechanics I specified in the System Notes helps train the player to think of the sentence before attempting to answer, as they would in a real world conversation.
 
-## Concept NPC Response Input Screen
-
-<img width="796" height="834" alt="Screenshot 2026-05-19 at 01 04 51" src="https://github.com/user-attachments/assets/d706135d-f190-41aa-9937-ac8bb4fcc3a8" />
-
 ## The Documents
 
 **[Game Design Document](LangAlong_GDD.md)** — A document meant to closely follow real world GDDs for practice for future projects.
@@ -27,3 +23,7 @@ These three documents are meant to be read as a suite. The GDD/Systems Notes spl
 ## Scope
 
 In the interest of time, only the first village and its associated mechanics have been documented. The pattern can easily be extended with further development.
+
+## Concept NPC Response Input Screen
+
+<img width="796" height="834" alt="Screenshot 2026-05-19 at 01 04 51" src="https://github.com/user-attachments/assets/d706135d-f190-41aa-9937-ac8bb4fcc3a8" />
